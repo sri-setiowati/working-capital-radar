@@ -1,0 +1,109 @@
+ticker,fiscal_year,field,label_baris,nilai_mentah,sheet,nomor_baris,kolom
+ACES,2022,revenue,Penjualan dan pendapatan usaha,6762803342146,1311000,6,C
+ACES,2022,cogs,Beban pokok penjualan dan pendapatan,3494850563778,1311000,7,C
+ACES,2022,trade_receivables,Piutang usaha pihak ketiga,38207113267,1210000,19,C
+ACES,2022,trade_receivables,Piutang usaha pihak berelasi,47647813591,1210000,20,C
+ACES,2022,inventories,Persediaan lancar,2810769398502,1210000,42,C
+ACES,2022,trade_payables,Utang usaha pihak ketiga,99989406971,1210000,135,C
+ACES,2022,trade_payables,Utang usaha pihak berelasi,44360667511,1210000,136,C
+ACES,2023,revenue,Penjualan dan pendapatan usaha,7611866067268,1311000,6,B
+ACES,2023,cogs,Beban pokok penjualan dan pendapatan,3913777307313,1311000,7,B
+ACES,2023,trade_receivables,Piutang usaha pihak ketiga,44869643266,1210000,19,B
+ACES,2023,trade_receivables,Piutang usaha pihak berelasi,153740107824,1210000,20,B
+ACES,2023,inventories,Persediaan lancar,2664947948466,1210000,42,B
+ACES,2023,trade_payables,Utang usaha pihak ketiga,93817482017,1210000,135,B
+ACES,2023,trade_payables,Utang usaha pihak berelasi,31805628095,1210000,136,B
+ACES,2024,revenue,Penjualan dan pendapatan usaha,8582510248665,1311000,6,C
+ACES,2024,cogs,Beban pokok penjualan dan pendapatan,4399711460963,1311000,7,C
+ACES,2024,trade_receivables,Piutang usaha pihak ketiga,32730193840,1210000,19,C
+ACES,2024,trade_receivables,Piutang usaha pihak berelasi,12173496585,1210000,20,C
+ACES,2024,inventories,Persediaan lancar,3396280224516,1210000,42,C
+ACES,2024,trade_payables,Utang usaha pihak ketiga,144134045054,1210000,135,C
+ACES,2024,trade_payables,Utang usaha pihak berelasi,46985130842,1210000,136,C
+ACES,2025,revenue,Penjualan dan pendapatan usaha,8638654030708,1311000,6,B
+ACES,2025,cogs,Beban pokok penjualan dan pendapatan,4523511960962,1311000,7,B
+ACES,2025,trade_receivables,Piutang usaha pihak ketiga,31008510671,1210000,19,B
+ACES,2025,trade_receivables,Piutang usaha pihak berelasi,115835521002,1210000,20,B
+ACES,2025,inventories,Persediaan lancar,3172137561766,1210000,42,B
+ACES,2025,trade_payables,Utang usaha pihak ketiga,120157398637,1210000,135,B
+ACES,2025,trade_payables,Utang usaha pihak berelasi,40785376907,1210000,136,B
+ARNA,2022,revenue,Pendapatan dari produk,2586665297217,1617000,30,G
+ARNA,2022,cogs,Beban pokok penjualan dan pendapatan,1533948666738,1670000,39,C
+ARNA,2022,trade_receivables,Piutang usaha pihak ketiga,36068039437,1210000,19,C
+ARNA,2022,trade_receivables,Piutang usaha pihak berelasi,698144786602,1210000,20,C
+ARNA,2022,inventories,Persediaan,257587525118,1630000,61,C
+ARNA,2022,trade_payables,Utang usaha pihak ketiga,312185872042,1210000,135,C
+ARNA,2023,revenue,Pendapatan dari produk,2447442037597,1617000,30,C
+ARNA,2023,cogs,Beban pokok penjualan dan pendapatan,1543235117005,1670000,39,B
+ARNA,2023,trade_receivables,Piutang usaha pihak ketiga,52613894454,1210000,19,B
+ARNA,2023,trade_receivables,Piutang usaha pihak berelasi,802962424172,1210000,20,B
+ARNA,2023,inventories,Persediaan,254512353874,1630000,61,B
+ARNA,2023,trade_payables,Utang usaha pihak ketiga,305657716797,1210000,135,B
+ARNA,2024,revenue,Penjualan dan pendapatan usaha,2632310100626,1311000,6,C
+ARNA,2024,cogs,Beban pokok penjualan dan pendapatan,1727972510054,1311000,7,C
+ARNA,2024,trade_receivables,Piutang usaha pihak ketiga,80098418252,1210000,19,C
+ARNA,2024,trade_receivables,Piutang usaha pihak berelasi,839014798840,1210000,20,C
+ARNA,2024,inventories,Persediaan lancar,165688130216,1210000,42,C
+ARNA,2024,trade_payables,Utang usaha pihak ketiga,324753803203,1210000,135,C
+ARNA,2025,revenue,Penjualan dan pendapatan usaha,2914327066752,1311000,6,B
+ARNA,2025,cogs,Beban pokok penjualan dan pendapatan,2030412241492,1311000,7,B
+ARNA,2025,trade_receivables,Piutang usaha pihak ketiga,82501745661,1210000,19,B
+ARNA,2025,trade_receivables,Piutang usaha pihak berelasi,802660301762,1210000,20,B
+ARNA,2025,inventories,Persediaan lancar,118518433828,1210000,42,B
+ARNA,2025,trade_payables,Utang usaha pihak ketiga,328595452847,1210000,135,B
+INTP,2022,revenue,Penjualan dan pendapatan usaha,16328278,1321000,6,C
+INTP,2022,cogs,Beban pokok penjualan dan pendapatan,11185120,1321000,7,C
+INTP,2022,trade_receivables,Piutang usaha pihak ketiga,2645121,1210000,19,C
+INTP,2022,trade_receivables,Piutang usaha pihak berelasi,6551,1210000,20,C
+INTP,2022,inventories,Persediaan lancar,2830700,1210000,42,C
+INTP,2022,trade_payables,Utang usaha pihak ketiga,1814723,1210000,135,C
+INTP,2022,trade_payables,Utang usaha pihak berelasi,20029,1210000,136,C
+INTP,2023,revenue,Penjualan dan pendapatan usaha,17949756,1321000,6,B
+INTP,2023,cogs,Beban pokok penjualan dan pendapatan,12103031,1321000,7,B
+INTP,2023,trade_receivables,Piutang usaha pihak ketiga,2712320,1210000,19,B
+INTP,2023,trade_receivables,Piutang usaha pihak berelasi,29655,1210000,20,B
+INTP,2023,inventories,Persediaan lancar,2904699,1210000,42,B
+INTP,2023,trade_payables,Utang usaha pihak ketiga,1712761,1210000,135,B
+INTP,2023,trade_payables,Utang usaha pihak berelasi,34678,1210000,136,B
+INTP,2024,revenue,Penjualan dan pendapatan usaha,18548734,1321000,6,C
+INTP,2024,cogs,Beban pokok penjualan dan pendapatan,12487779,1321000,7,C
+INTP,2024,trade_receivables,Piutang usaha pihak ketiga,2831204,1210000,19,C
+INTP,2024,trade_receivables,Piutang usaha pihak berelasi,7015,1210000,20,C
+INTP,2024,inventories,Persediaan lancar,2593061,1210000,42,C
+INTP,2024,trade_payables,Utang usaha pihak ketiga,1772821,1210000,135,C
+INTP,2024,trade_payables,Utang usaha pihak berelasi,17804,1210000,136,C
+INTP,2025,revenue,Penjualan dan pendapatan usaha,17731188,1321000,6,B
+INTP,2025,cogs,Beban pokok penjualan dan pendapatan,11961315,1321000,7,B
+INTP,2025,trade_receivables,Piutang usaha pihak ketiga,2740098,1210000,19,B
+INTP,2025,trade_receivables,Piutang usaha pihak berelasi,10993,1210000,20,B
+INTP,2025,inventories,Persediaan lancar,2176751,1210000,42,B
+INTP,2025,trade_payables,Utang usaha pihak ketiga,1591545,1210000,135,B
+INTP,2025,trade_payables,Utang usaha pihak berelasi,17052,1210000,136,B
+SMGR,2022,revenue,Penjualan dan pendapatan usaha,36378597,1311000,6,C
+SMGR,2022,cogs,Beban pokok penjualan dan pendapatan,25700993,1311000,7,C
+SMGR,2022,trade_receivables,Piutang usaha pihak ketiga,4639402,1210000,19,C
+SMGR,2022,trade_receivables,Piutang usaha pihak berelasi,881936,1210000,20,C
+SMGR,2022,inventories,Persediaan lancar,5610233,1210000,42,C
+SMGR,2022,trade_payables,Utang usaha pihak ketiga,6910475,1210000,135,C
+SMGR,2022,trade_payables,Utang usaha pihak berelasi,1185449,1210000,136,C
+SMGR,2023,revenue,Penjualan dan pendapatan usaha,38651360,1311000,6,B
+SMGR,2023,cogs,Beban pokok penjualan dan pendapatan,28474383,1311000,7,B
+SMGR,2023,trade_receivables,Piutang usaha pihak ketiga,5020176,1210000,19,B
+SMGR,2023,trade_receivables,Piutang usaha pihak berelasi,767676,1210000,20,B
+SMGR,2023,inventories,Persediaan lancar,5133737,1210000,42,B
+SMGR,2023,trade_payables,Utang usaha pihak ketiga,6790523,1210000,135,B
+SMGR,2023,trade_payables,Utang usaha pihak berelasi,1305762,1210000,136,B
+SMGR,2024,revenue,Penjualan dan pendapatan usaha,36186127,1311000,6,C
+SMGR,2024,cogs,Beban pokok penjualan dan pendapatan,28255001,1311000,7,C
+SMGR,2024,trade_receivables,Piutang usaha pihak ketiga,4391769,1210000,19,C
+SMGR,2024,trade_receivables,Piutang usaha pihak berelasi,734966,1210000,20,C
+SMGR,2024,inventories,Persediaan lancar,5192941,1210000,42,C
+SMGR,2024,trade_payables,Utang usaha pihak ketiga,6679990,1210000,135,C
+SMGR,2024,trade_payables,Utang usaha pihak berelasi,1119893,1210000,136,C
+SMGR,2025,revenue,Penjualan dan pendapatan usaha,35243751,1311000,6,B
+SMGR,2025,cogs,Beban pokok penjualan dan pendapatan,28173648,1311000,7,B
+SMGR,2025,trade_receivables,Piutang usaha pihak ketiga,4822032,1210000,19,B
+SMGR,2025,trade_receivables,Piutang usaha pihak berelasi,867179,1210000,20,B
+SMGR,2025,inventories,Persediaan lancar,4913825,1210000,42,B
+SMGR,2025,trade_payables,Utang usaha pihak ketiga,6793777,1210000,135,B
+SMGR,2025,trade_payables,Utang usaha pihak berelasi,1045578,1210000,136,B

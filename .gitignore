@@ -1,0 +1,8 @@
+.venv/
+*.duckdb
+target/
+logs/
+__pycache__/
+candidates_*.txt
+xlsx_candidates_*.txt
+reports/

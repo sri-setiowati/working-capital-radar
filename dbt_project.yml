@@ -1,0 +1,25 @@
+name: working_capital_radar
+version: 1.0.0
+profile: working_capital
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+
+seeds:
+  working_capital_radar:
+    financials:
+      +column_types:
+        fiscal_year: integer
+        revenue: bigint
+        cogs: bigint
+        trade_receivables: bigint
+        inventories: bigint
+        trade_payables: bigint
+
+models:
+  working_capital_radar:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

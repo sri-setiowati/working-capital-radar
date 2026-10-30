@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: stg_financials
+    columns:
+      - name: ticker
+        tests:
+          - not_null
+      - name: fiscal_year
+        tests:
+          - not_null
+
+  - name: ccc_by_company_year
+    columns:
+      - name: ccc_days
+        tests:
+          - not_null
