@@ -33,6 +33,14 @@ Year-end balances are used, not averages. The what-if columns assume that 10% le
 
 dbt runs six tests: one row per company and year, positive values, recognised units, and no missing ticker, year or CCC value. ARNA's FY2022 and FY2023 figures were checked line by line against the audited FY2023 statements (statement of financial position and Notes 6, 22 and 23).
 
+## Data problems solved along the way
+
+- **Mixed units.** ACES and ARNA report in full rupiah, INTP and SMGR in millions. The unit is stored on each row and converted to Rp billion in the staging model, and a test fails if an unknown unit appears.
+- **Numbers too large for 32-bit integers.** dbt first failed to load the seed because full-rupiah values exceed the integer limit, so the columns are loaded as bigint.
+- **Empty statement rows.** In ARNA's FY2022 and FY2023 Excel file the main statement rows were empty, so revenue, cost of goods sold and inventories come from the notes. I checked them against the audited statements.
+- **Receivables split across rows.** Trade receivables are reported as third-party and related-party lines. I add them up, and the audit file keeps every component.
+- **A company that changed its name.** ACES appears under its current name for every year.
+
 ## Run it yourself
 
     pip install dbt-duckdb
