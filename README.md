@@ -16,6 +16,8 @@ The full write-up is in the memo: [memo.pdf](memo.pdf).
 
 Consolidated annual financial statements of ACES, ARNA, INTP and SMGR, taken from the IDX Excel files for FY2022-2025 (two reports per company, each with a comparative year). Five items per company and year: net sales, cost of goods sold, trade receivables, inventories and trade payables. Some companies report in full rupiah and others in millions, so the unit is stored with each row and converted to Rp billion in the staging model.
 
+The IDX Excel files are not included in this repository. To rebuild `financials.csv`, download them from idx.co.id into a `reports` folder and run `build_financials_csv.py`.
+
 `seeds/financials.csv` holds the 16 company-years. `extraction_audit.csv` lists the source sheet and row of each extracted number.
 
 ## Method
